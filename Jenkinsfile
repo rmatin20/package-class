@@ -29,7 +29,7 @@ pipeline  {
         git(
         url:'git@github.com:rmatin20/package-class.git',
         credentialsId: 'package',
-        branch: "master"
+        branch: "main"
         )
      }
 
